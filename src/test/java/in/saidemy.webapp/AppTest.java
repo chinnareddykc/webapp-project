@@ -1,4 +1,4 @@
-package in.saidemy-wepapp;
+package in.saidemy.webapp;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
